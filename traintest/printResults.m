@@ -1,0 +1,11 @@
+function printResults(results)
+fprintf('Network Training Time(sec)    : %0.2f\n', results.time)
+fprintf('Average System Accuracy(%%)   : %0.2f\n', results.avgAccuracy)
+fprintf('System Error(%%)              : %0.2f\n', results.errRate)
+fprintf('Precision (Micro)(%%)         : %0.2f\n', results.precisionMicro)
+fprintf('Recall (Micro)(%%)            : %0.2f\n', results.recallMicro)
+fprintf('Fscore (Micro)(%%)            : %0.2f\n', results.fscoreMicro)
+fprintf('Precision (Macro)(%%)         : %0.2f\n', results.precisionMacro)
+fprintf('Recall (Macro)(%%)            : %0.2f\n', results.recallMacro)
+fprintf('Fscore (Macro)(%%)            : %0.2f\n', results.fscoreMacro)
+end
