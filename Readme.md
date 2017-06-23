@@ -1,4 +1,4 @@
-##nhcr: Nepali Handwritten Character Recognition
+## nhcr: Nepali Handwritten Character Recognition
  Offline Nepali Handwritten Character Recognition Using Artificial Neural Networks
 
 ## Requirement
