@@ -43,6 +43,10 @@ Change your configurations in 'setup.m' file if necessary.
 ```matlab
 >> featureExtractionDemo
 ```
+## Dataset Details
+
+https://www.kaggle.com/ashokpant/devanagari-character-dataset
+
 ## Citation
 ```
 Please cite in your publications if it helps your research:
